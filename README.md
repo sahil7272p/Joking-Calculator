@@ -68,16 +68,22 @@ This project is great for learning **JavaScript DOM manipulation**, integrating 
 
 ⚠️ **Important Notes**
 All Rights Reserved © 2025 | *Sahil*
+
 This project is meant for learning and laughter only.
+
 🔒 Do not reuse or copy without proper attribution.
+
 📩 Contact: [sahilmarwal81@gmail.com](mailto:sahilmarwal81@gmail.com)
 
----
+
 
 ## 💡 Why Build This?
 
 ✅ Practice math operation logic in JavaScript
+
 ✅ Learn fun DOM interaction & UX techniques
+
 ✅ Integrate humor with functionality
+
 ✅ Make learning coding fun for beginners
 
